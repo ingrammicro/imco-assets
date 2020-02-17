@@ -1,5 +1,7 @@
 # CHANGELOG #
 
+## v0.1.0-beta (February 17th, 2020)
+
 First stable version of imco-assets including:
 
 * Add version to the file names - [Issue #2](https://github.com/ingrammicro/imco-assets/issues/2)
