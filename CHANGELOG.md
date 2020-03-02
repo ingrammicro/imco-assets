@@ -1,4 +1,6 @@
-# CHANGELOG #
+# CHANGELOG
+
+## v0.1.0 (February 27th, 2020)
 
 First stable version of imco-assets including:
 
