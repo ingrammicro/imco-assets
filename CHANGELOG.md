@@ -1,6 +1,6 @@
 # CHANGELOG
 
-## v0.2.0.beta (June 17th, 2021)
+## v0.2.0.rc (July 1st, 2021)
 
 * Add chef-client version 14.15.6-1 - [Issue IMCO-492](https://jira.int.zone/browse/IMCO-492)
 
