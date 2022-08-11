@@ -1,6 +1,6 @@
 # CHANGELOG
 
-## v0.3.0.beta (August 1st, 2022)
+## v0.3.0.rc (August 11th, 2022)
 
 * Replace chef-client packages with cinc-client ones v17.10.0 - [Issue IMCO-1215](https://jira.int.zone/browse/IMCO-1215)
 
