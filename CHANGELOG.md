@@ -1,5 +1,7 @@
 # CHANGELOG
 
+* Add Ansible packages - [Issue IMCO-1358](https://jira.int.zone/browse/IMCO-1358)
+
 ## v0.3.0 (August 12th, 2022)
 
 * Replace chef-client packages with cinc-client ones v17.10.0 - [Issue IMCO-1215](https://jira.int.zone/browse/IMCO-1215)
