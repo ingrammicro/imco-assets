@@ -1,6 +1,6 @@
 # CHANGELOG
 
-## v0.3.2.beta (January 26th, 2023)
+## v0.3.2.rc (February 9th, 2023)
 
 * Update dependencies - [Issue IMCO-1447](https://jira.int.zone/browse/IMCO-1447)
 
